@@ -1,0 +1,10 @@
+#base: http://automationpractice.com/index.php
+login:
+#  url: ?controller=authentication&back=my-account
+  success:
+    - login page
+    - 516463257@qq.com
+    - chris520h
+goodPay:
+  goodsname:
+  passwd:

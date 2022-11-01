@@ -1,0 +1,6 @@
+序号	操作名称	关键字名称	元素查找类型	元素位置	数据	执行时间	测试结果
+1	打开浏览器	open_browser			Chrome		
+2	加载地址	load_url			http://automationpractice.com/index.php?controller=authentication&back=my-account		
+3	输入用户名	input	xpath	"//*[@id=""email""]"	bonnie_c520@yahoo.com		
+4	输入密码	input	xpath	"//*[@id=""passwd""]"	chris520h		
+5	点击登陆	click	xpath	"//*[@id=""SubmitLogin""]"			
